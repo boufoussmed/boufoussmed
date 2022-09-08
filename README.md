@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boufoussmed
-- 👀 I’m interested in creating app using NodeJs, Java ...
+- 👀 I’m interested in creating apps using NodeJs, Java ...
 - 🌱 I’m currently learning Deno
 - 💞️ I’m looking to collaborate on any project using pure Java or JavaScript
 - 📫 How to reach me boufoussmohamed@gmail.com
